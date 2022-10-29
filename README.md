@@ -77,9 +77,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](ML1.png)
-![best fit line](ML2.png)
-![best fit line](ML3.png)
+
 
 
 ## Result:
