@@ -77,9 +77,11 @@ plt.show()
 ```
 
 ## Output:
-![OUTPUT](op1.png)
-![OUTPUT](op2.png)
-![OUTPUT](op3.png)
+![op1](https://user-images.githubusercontent.com/93427182/199432613-79074101-eab8-48cf-9a1f-d2b6287bd3b9.png)
+![op2](https://user-images.githubusercontent.com/93427182/199432609-afb7d517-524e-4d25-ae93-d980c724fbcf.png)
+![op3](https://user-images.githubusercontent.com/93427182/199432606-ffe0b1b2-7df5-4c6a-ae5e-eee239092e87.png)
+
+
 
 
 ## Result:
