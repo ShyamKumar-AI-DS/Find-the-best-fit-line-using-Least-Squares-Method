@@ -77,9 +77,9 @@ plt.show()
 ```
 
 ## Output:
-![OUTPUT](ML1.png)
-![OUTPUT](ML2.png)
-![OUTPUT](ML3.png)
+![OUTPUT](op1.png)
+![OUTPUT](op2.png)
+![OUTPUT](op3.png)
 
 
 ## Result:
